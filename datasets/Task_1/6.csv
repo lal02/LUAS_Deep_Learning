@@ -1,4 +1,4 @@
-Price,Levy,Manufacturer,Model,Prod. year,Category,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels,Airbags
+ID,Price,Levy,Manufacturer,Model,Prod. year,Category,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels,Airbags
 0,13328,1399,1,1,2010,1,1,3.5,186005,6.0,1,1,12
 1,16621,1018,2,2,2011,1,2,3.0,192000,6.0,2,1,8
 2,8467,0,3,3,2006,2,2,1.3,200000,4.0,3,2,2
